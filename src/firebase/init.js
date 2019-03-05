@@ -10,7 +10,6 @@ var config = {
   storageBucket: "codeofthesouth-chat.appspot.com",
   messagingSenderId: "1070612928223"
 };
-firebase.initializeApp(config);
 
 const firebaseApp = firebase.initializeApp(config);
 
